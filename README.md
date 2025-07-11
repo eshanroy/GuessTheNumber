@@ -21,14 +21,3 @@ A simple Python game where the player tries to guess a randomly generated number
 - Input handling (`input()`, `int()`)
 - Error handling (`try-except`)
 
-# Sample Output
-- Welcome to the Number Guessing Game!
-Guess a number between 1 and 100. You have 5 attempts.
-
-Attempt 1: Enter your guess: 50
-- Too high!
-
-Attempt 2: Enter your guess: 25
-- Too low!
-
-Congratulations! You guessed the correct number.
